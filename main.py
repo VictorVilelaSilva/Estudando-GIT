@@ -1,7 +1,7 @@
 str = 'string 1'
 
-str = 'linha 2'
+str = 'string 2'
 
-str = 'linha 3'
+str = 'string 3'
 
-str = 'linha 4'
+str = 'string 4'
