@@ -1,0 +1,1 @@
+str = 'linha 1'
