@@ -9,3 +9,5 @@ str = 'linha 4'
 str = 'linha 5'
 
 str = 'linha 6'
+
+str = 'linha 7'
