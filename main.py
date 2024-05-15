@@ -9,3 +9,5 @@ str = 'string 4'
 str = 'string 5'
 
 str = 'string 6'
+
+str = 'string 7'
